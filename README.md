@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mikhayaltmg
-- 👀 I’m interested in Mobilw Apps and website Development
+- 👋 Hi, I’m Mikhayaltmg
+- 👀 I’m interested in Mobile Apps and website Development
 - 🌱 I’m currently learning Flutter
 <!---
 Mikhayaltmg/Mikhayaltmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
